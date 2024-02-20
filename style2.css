@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 215, 221);
+}
+img{
+    width: 400px;
+    border-radius: 1000px;
+}
+header{
+    padding: 20px;
+}
+header a{
+    background-color: lightpink;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: rgb(139, 32, 86);
+}
+header a:hover{
+    background-color: rgb(228, 143, 156);
+}
+#cor{
+    color:  rgb(139, 32, 86);;
+}
